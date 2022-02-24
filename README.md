@@ -1,2 +1,15 @@
-# BPaaS_platform
-It's a service platform 
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
